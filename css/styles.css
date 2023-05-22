@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section {
+    background: lightskyblue;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container h1 {
+    color: white;
+    font-size: 6rem;
+    text-shadow: 0 2px 8px rgba(209, 25, 169, 0.4);
+}
+AMAL A . B . ALSHIBLI
+5294 1562 6786 4456
+26523
+EE0JZH1U
